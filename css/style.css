@@ -1,0 +1,16 @@
+﻿canvas {
+    width:600px;
+    height:600px;
+    margin: 0 auto;
+    display:block;
+    background-color:gray;
+}
+
+body{
+    background-color:black;
+}
+
+.but{
+    width:600px;
+    margin:20px auto;
+}
